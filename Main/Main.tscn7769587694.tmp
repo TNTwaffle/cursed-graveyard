@@ -16,7 +16,7 @@ offset_left = -69.5
 offset_right = 69.5
 offset_bottom = 23.0
 grow_horizontal = 2
-text = "Idle Necromancer"
+text = "Cursed Graveyard"
 
 [node name="Grave" type="Button" parent="CanvasLayer"]
 offset_left = 197.0
